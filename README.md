@@ -1,0 +1,2 @@
+# RGB-Color-Game
+It is a color guesssing game. Each color is made out of three primary colors i.e Red, Green &amp; Blue. So, the game ask you to guess the correct color in the form RGB which respectively stands for Red, Green &amp; Blue. All the three colors range from 0 to 255. For example: RGB( 255, 0, 0) is red &amp; RGB( 0, 0, 255) is blue.The game has two levels EASY and HARD where you have to choose from three and six options respectively.
